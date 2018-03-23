@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{508D84C5-EDBC-4562-88A0-CA3C3321EB14}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="408 Step 1 Server/Form1.resx">
+    <Files>
+      <File FileName="408 Step 1 Server/Program.cs" Line="1" Column="1" />
+      <File FileName="408 Step 1 Server/Form1.cs" Line="745" Column="1" />
+      <File FileName="408 Step 1 Server/Form1.Designer.cs" Line="1" Column="1" />
+      <File FileName="408 Step 1 Server/Form1.resx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.408_220Step_2201_220Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

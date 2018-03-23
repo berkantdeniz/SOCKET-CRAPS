@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{62F4B0F5-7F83-41E4-8C15-0BFA2913A38C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../dev_readme.txt">
+    <Files>
+      <File FileName="../../dev_readme.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.408_220Step_2201_220Client_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
